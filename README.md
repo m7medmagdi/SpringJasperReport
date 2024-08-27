@@ -31,7 +31,7 @@ This project demonstrates how to integrate JasperReports with a Spring Boot appl
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/m7medmagdi/SpringJasperReport.git
 
 ## Usage
 1. **Generate and Download the Report::**
