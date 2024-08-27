@@ -32,3 +32,14 @@ This project demonstrates how to integrate JasperReports with a Spring Boot appl
 
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+
+## Usage
+1. **Generate and Download the Report::**
+      Open Postman or any other HTTP client and send a GET request to the following endpoint:
+
+
+   ```bash
+   http://localhost:8080/api/reports/pdf
+  The response will be a PDF file generated from the JasperReports template.
+
+
