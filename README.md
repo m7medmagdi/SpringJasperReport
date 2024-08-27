@@ -22,7 +22,7 @@ This project demonstrates how to integrate JasperReports with a Spring Boot appl
 - `src/main/java/com/example/demo/`
   - `controller/`: Contains the REST controller for report generation.
   - `service/`: Contains the service to generate the report.
-  - `model/`: Contains data models (e.g., `SampleData`).
+  - `entity/`: Contains data models (e.g., `SampleData`).
 - `src/main/resources/`
   - `report.jrxml`: JasperReports template for the report.
 
